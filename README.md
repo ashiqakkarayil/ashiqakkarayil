@@ -20,12 +20,12 @@ Currently a Software Developer at **Pro Dynamics Technology LLC (Dubai)**, leadi
 
 ### Featured work
 
-| Project | Stack | Links |
-|---------|-------|-------|
-| **Clothing — E-commerce Store** | Laravel, Livewire, Tailwind | [Live](https://shop.ashiqakkarayil.com/) |
-| **HRMS Platform (Laravel)** | Laravel, Filament v5, Livewire | [Demo](https://hrms.ashiqakkarayil.com/) |
-| **E-commerce Integrations** | Shopify, WooCommerce, custom APIs | [Case study](https://ashiqakkarayil.com/projects) |
-| **Self-Hosted Home Lab** | Docker, Cloudflare Tunnel, Raspberry Pi 5 | [Write-up](https://ashiqakkarayil.com/blog/self-hosting-on-a-raspberry-pi-with-docker) |
+| Project | Stack | Code | Live / More |
+|---------|-------|------|-------------|
+| **Clothing — E-commerce Store** | Laravel, Livewire, Tailwind | [GitHub](https://github.com/ashiqakkarayil/my_dream_ecommerce_v3) | [Live](https://shop.ashiqakkarayil.com/) |
+| **HRMS Platform (Laravel)** | Laravel, Filament v5, Livewire | Private | [Demo](https://hrms.ashiqakkarayil.com/) |
+| **E-commerce Integrations** | Shopify, WooCommerce, custom APIs | Private | [Case study](https://ashiqakkarayil.com/projects) |
+| **Self-Hosted Home Lab** | Docker, Cloudflare Tunnel, Raspberry Pi 5 | — | [Write-up](https://ashiqakkarayil.com/blog/self-hosting-on-a-raspberry-pi-with-docker) |
 
 ---
 
